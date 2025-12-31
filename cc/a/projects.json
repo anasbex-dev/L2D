@@ -1,5 +1,11 @@
 [
   {
+    "img": "https://i.ibb.co.com/99YcHsWJ/1767220969.jpg",
+    "title": "ABrowser Android",
+    "desc": "ABrowser application for Android using advanced Chromium, Still in development stage.",
+    "date": "2025-2026"
+  },
+  {
     "img": "https://anasbex-dev.github.io/aka-me/akadata/images/kittle.webp",
     "title": "Kittle Web Components",
     "desc": "Currently developing web components from scratch, this is my first experience creating a Web Components Style Kit Css.",
