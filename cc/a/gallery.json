@@ -1,0 +1,52 @@
+[
+  {
+    "img": "https://anasbex-dev.github.io/aka-me/akadata/images/ilust1.webp",
+    "title": "Anime Illustration",
+    "tag": "Illustration"
+  },
+  {
+    "img": "https://picsum.photos/400/500",
+    "title": "Cyber Girl",
+    "tag": "Illustration"
+  },
+  {
+    "img": "https://picsum.photos/400/650",
+    "title": "Fantasy World",
+    "tag": "Art"
+  },
+  {
+    "img": "https://picsum.photos/400/450",
+    "title": "Nature Light",
+    "tag": "Photography"
+  },
+  {
+    "img": "https://picsum.photos/400/700",
+    "title": "Anime Portrait",
+    "tag": "Art"
+  },
+  {
+    "img": "https://picsum.photos/400/600",
+    "title": "City Night",
+    "tag": "Photography"
+  },
+  {
+    "img": "https://picsum.photos/400/500",
+    "title": "Cyber Girl",
+    "tag": "Illustration"
+  },
+  {
+    "img": "https://picsum.photos/400/650",
+    "title": "Fantasy World",
+    "tag": "Art"
+  },
+  {
+    "img": "https://picsum.photos/400/450",
+    "title": "Nature Light",
+    "tag": "Photography"
+  },
+  {
+    "img": "https://picsum.photos/400/700",
+    "title": "Anime Portrait",
+    "tag": "Art"
+  }
+]
